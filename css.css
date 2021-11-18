@@ -1,0 +1,36 @@
+body{
+background: black ;
+}
+
+h1{
+display: flex;	
+color: #000;
+
+}
+p{
+	display: flex;
+    color: #000;
+
+
+}
+
+
+.card {
+	background: url('img/23.jpg') no-repeat center;
+	background-size: cover;
+	height: 100vh;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+
+}
+.carl{
+   
+
+
+}
+.gerp{
+   white: 50px;
+   height: 25px;
+
+}
